@@ -7,7 +7,6 @@ import pandas as pd
 import sys
 from argparse import ArgumentParser
 from config import tvsfile
-from gooey import Gooey
 
 
 #@Gooey(program_name="Create Quarterly Marketing Report")
