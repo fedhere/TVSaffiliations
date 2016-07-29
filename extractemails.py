@@ -10,11 +10,9 @@ from config import tvsfile
 from gooey import Gooey
 
 
-@Gooey(program_name="Create Quarterly Marketing Report")
+@Gooey(program_name="Extracting contact with subgroup affiliation")
 def parse_args():
     """ Use ArgParser to build up the arguments we will use in our script
-    Save the arguments in a default json file so that we can retrieve them
-    every time we run the script.
     """
     stored_args = {}
     # get the script name without the extension & use it to build up
@@ -44,8 +42,6 @@ if __name__ == '__main__':
         print "Required Argument: Google Doc file identifier (if you do not have it email federica!)"
         sys.exit()
         
-    gdfile = sys.argv[1]
-
     TVSMembers = pd.read_csv('https://docs.google.com/spreadsheets/d/' + 
                              tvsfile +
                              '/export?gid=0&format=csv',
