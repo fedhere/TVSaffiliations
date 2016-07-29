@@ -34,3 +34,10 @@ Notice: depending on your python version and your system running the command may
 In this case use pythonw
 
     pythonw exractemails.py
+
+
+Required modules: 
+for nogui version 
+        Pandas
+for gui version 
+        pandas, Gooey, wx
