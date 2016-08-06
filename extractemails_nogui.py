@@ -17,7 +17,7 @@ def parse_args(subglist):
                         action='store',
                         default=None,
                         help='Choose the subgroup affiliation:' +
-                        ' '.join([s for s in subglist]))
+                        ' -- '.join([s for s in subglist]))
 
     args = parser.parse_args()
 
