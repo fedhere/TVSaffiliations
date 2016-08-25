@@ -34,12 +34,10 @@ if __name__ == '__main__':
                              '/export?gid=0&format=csv',
                              index_col=0)
     subgroups = TVSMembers.primary.unique()
-    print (subgroups)
     conf = parse_args([x for x in subgroups if str(x) != 'nan'])
     primary = conf.subgroup
     secondary = conf.subgroup
 
-    print (primary, secondary)
     emails = TVSMembers[TVSMembers.primary == primary]['email'].values
     print ("These are the members with primary affiliation with " + primary)
     print ("")
