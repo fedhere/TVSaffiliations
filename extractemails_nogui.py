@@ -1,5 +1,11 @@
 # coding: utf-8
+#just prints the emails of members of a group to stdout,
+#both primary and secondary members
+# run as
+# $python extractemails_nogui.py "Tidal Disruption Events"
 
+from __future__ import print_function
+'__author__' == 'Federica Bianco, NYU - GitHub: fedhere'
 import sys
 import pandas as pd
 from argparse import ArgumentParser
@@ -48,3 +54,7 @@ if __name__ == '__main__':
     print ("These are the members with secondary affiliation with " + secondary)
     print ("")
     print (' '.join([em + ','for em in emails]))
+
+    print ("")
+    print ("If you also want their names and affiliations use: ")
+    print ("$python extractemailsW.py " + conf.subgroup)
