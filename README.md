@@ -6,6 +6,19 @@ Change the value of tvsfile in conf.py to the correct GoogleDoc file link, which
 
 ## Withot the GUI: 
 
+### to obtain all contact info:
+run as
+
+    python extractemailsW.py <subgroup>
+
+this creates (overwrites if existing) 2 output files with the contact info: SubgroupNames_<subgroup>.dat which contains the Last-, First-Name, and email in a tsv file, and SubgroupEmails_<subgroup>.dat, which contains the emails only (for easier copy and paste in your email To field).
+
+to see a list of the subgroups run as   
+
+    python extractemailsW.py  -h
+
+### to just get the emails printed on standard output (i.e. dumped to your terminal - generally)
+
 run as 
 
     python extractemails_nogui.py <subgroups>
