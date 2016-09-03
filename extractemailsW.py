@@ -1,6 +1,12 @@
 # coding: utf-8
+# prints the emails and contact info of members of a group to stdout,
+# both primary and secondary members
+# to two files names SubgroupNames_<subgroup>.dat and SubgroupEmails_<subgroup>.dat
+# run as
+# $python extractemailsW.py "Tidal Disruption Events"
 
-# In[4]:
+from __future__ import print_function
+'__author__' == 'Federica Bianco, NYU - GitHub: fedhere'
 
 import pandas as pd
 import sys
@@ -46,7 +52,8 @@ if __name__ == '__main__':
     tmp = TVSMembers[TVSMembers.primary == primary]
 
     sgemails = tmp['email'].values
-    femail = open('SubgroupEmails_'+''.join(primary.split())+'.dat', 'w')
+    femailName = 'SubgroupEmails_'+''.join(primary.split())+'.dat'
+    femail = open(femailName, 'w')
     femail.write("These are the members with primary affiliation with " + primary + "\n")
     femail.write("\n")
     femail.write('\n'.join([em + ','for em in sgemails]))
@@ -54,8 +61,9 @@ if __name__ == '__main__':
 
     sgLnames = tmp['last name'].values
     sgFnames = tmp['first name'].values
-    
-    fnames = open('SubgroupNames_'+''.join(primary.split())+'.dat', 'w')
+
+    fnamesName = 'SubgroupNames_'+''.join(primary.split())+'.dat'
+    fnames = open(fnamesName, 'w')
     fnames.write("These are the members with primary affiliation with " + primary + "\n")
     fnames.write("\n")
     for em in zip(sgLnames, sgFnames, sgemails):
@@ -80,3 +88,4 @@ if __name__ == '__main__':
     for em in zip(sgLnames, sgFnames, sgemails, sgPrimary):
         fnames.write('{0:15} {1:15} {2:40} {3}\n'.format(em[0], em[1], em[2], em[3]))
     
+    print ("output left in " + fnamesName + " and " + femailName)
