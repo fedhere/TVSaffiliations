@@ -1,257 +1,257 @@
 word1,word2,count
-Interacting\ Binaries,Interacting\ Binaries,0
-Interacting\ Binaries,Galactic,8
-Interacting\ Binaries,Supernovae,6
-Interacting\ Binaries,Cosmological,0
-Interacting\ Binaries,Multiwavelength\ Characterization/Counterparts,8
-Interacting\ Binaries,Tidal\ Disruption\ Events,1
-Interacting\ Binaries,Non-degenerate\ Eruptive\ Variables,4
-Interacting\ Binaries,Fast\ Transients,10
-Interacting\ Binaries,Microlensing,0
-Interacting\ Binaries,Gravitational\ Waves,2
-Interacting\ Binaries,Classification/Characterization,7
-Interacting\ Binaries,Magnetically\ Active\ Stars,2
-Interacting\ Binaries,Distance\ Scales,1
-Interacting\ Binaries,Pulsating\ Variables,8
-Interacting\ Binaries,Transiting\ Planets,4
-Interacting\ Binaries,Blazars,3
-Galactic,Interacting\ Binaries,8
-Galactic,Galactic,0
-Galactic,Supernovae,1
-Galactic,Cosmological,0
-Galactic,Multiwavelength\ Characterization/Counterparts,5
-Galactic,Tidal\ Disruption\ Events,1
-Galactic,Non-degenerate\ Eruptive\ Variables,4
-Galactic,Fast\ Transients,6
-Galactic,Microlensing,4
-Galactic,Gravitational\ Waves,4
-Galactic,Classification/Characterization,11
-Galactic,Magnetically\ Active\ Stars,3
-Galactic,Distance\ Scales,3
-Galactic,Pulsating\ Variables,4
-Galactic,Transiting\ Planets,6
-Galactic,Blazars,0
-Supernovae,Interacting\ Binaries,6
-Supernovae,Galactic,1
-Supernovae,Supernovae,0
-Supernovae,Cosmological,12
-Supernovae,Multiwavelength\ Characterization/Counterparts,12
-Supernovae,Tidal\ Disruption\ Events,10
-Supernovae,Non-degenerate\ Eruptive\ Variables,4
-Supernovae,Fast\ Transients,21
-Supernovae,Microlensing,4
-Supernovae,Gravitational\ Waves,14
-Supernovae,Classification/Characterization,16
-Supernovae,Magnetically\ Active\ Stars,0
-Supernovae,Distance\ Scales,3
-Supernovae,Pulsating\ Variables,3
-Supernovae,Transiting\ Planets,1
-Supernovae,Blazars,0
-Cosmological,Interacting\ Binaries,0
-Cosmological,Galactic,0
-Cosmological,Supernovae,12
-Cosmological,Cosmological,0
-Cosmological,Multiwavelength\ Characterization/Counterparts,8
-Cosmological,Tidal\ Disruption\ Events,2
-Cosmological,Non-degenerate\ Eruptive\ Variables,0
-Cosmological,Fast\ Transients,8
-Cosmological,Microlensing,3
-Cosmological,Gravitational\ Waves,7
-Cosmological,Classification/Characterization,7
-Cosmological,Magnetically\ Active\ Stars,0
-Cosmological,Distance\ Scales,4
-Cosmological,Pulsating\ Variables,0
-Cosmological,Transiting\ Planets,0
-Cosmological,Blazars,0
-Multiwavelength\ Characterization/Counterparts,Interacting\ Binaries,8
-Multiwavelength\ Characterization/Counterparts,Galactic,5
-Multiwavelength\ Characterization/Counterparts,Supernovae,12
-Multiwavelength\ Characterization/Counterparts,Cosmological,8
-Multiwavelength\ Characterization/Counterparts,Multiwavelength\ Characterization/Counterparts,0
-Multiwavelength\ Characterization/Counterparts,Tidal\ Disruption\ Events,10
-Multiwavelength\ Characterization/Counterparts,Non-degenerate\ Eruptive\ Variables,2
-Multiwavelength\ Characterization/Counterparts,Fast\ Transients,15
-Multiwavelength\ Characterization/Counterparts,Microlensing,2
-Multiwavelength\ Characterization/Counterparts,Gravitational\ Waves,12
-Multiwavelength\ Characterization/Counterparts,Classification/Characterization,16
-Multiwavelength\ Characterization/Counterparts,Magnetically\ Active\ Stars,2
-Multiwavelength\ Characterization/Counterparts,Distance\ Scales,1
-Multiwavelength\ Characterization/Counterparts,Pulsating\ Variables,1
-Multiwavelength\ Characterization/Counterparts,Transiting\ Planets,5
-Multiwavelength\ Characterization/Counterparts,Blazars,5
-Tidal\ Disruption\ Events,Interacting\ Binaries,1
-Tidal\ Disruption\ Events,Galactic,1
-Tidal\ Disruption\ Events,Supernovae,10
-Tidal\ Disruption\ Events,Cosmological,2
-Tidal\ Disruption\ Events,Multiwavelength\ Characterization/Counterparts,10
-Tidal\ Disruption\ Events,Tidal\ Disruption\ Events,0
-Tidal\ Disruption\ Events,Non-degenerate\ Eruptive\ Variables,1
-Tidal\ Disruption\ Events,Fast\ Transients,6
-Tidal\ Disruption\ Events,Microlensing,0
-Tidal\ Disruption\ Events,Gravitational\ Waves,4
-Tidal\ Disruption\ Events,Classification/Characterization,4
-Tidal\ Disruption\ Events,Magnetically\ Active\ Stars,0
-Tidal\ Disruption\ Events,Distance\ Scales,0
-Tidal\ Disruption\ Events,Pulsating\ Variables,1
-Tidal\ Disruption\ Events,Transiting\ Planets,0
-Tidal\ Disruption\ Events,Blazars,2
-Non-degenerate\ Eruptive\ Variables,Interacting\ Binaries,4
-Non-degenerate\ Eruptive\ Variables,Galactic,4
-Non-degenerate\ Eruptive\ Variables,Supernovae,4
-Non-degenerate\ Eruptive\ Variables,Cosmological,0
-Non-degenerate\ Eruptive\ Variables,Multiwavelength\ Characterization/Counterparts,2
-Non-degenerate\ Eruptive\ Variables,Tidal\ Disruption\ Events,1
-Non-degenerate\ Eruptive\ Variables,Non-degenerate\ Eruptive\ Variables,0
-Non-degenerate\ Eruptive\ Variables,Fast\ Transients,5
-Non-degenerate\ Eruptive\ Variables,Microlensing,2
-Non-degenerate\ Eruptive\ Variables,Gravitational\ Waves,1
-Non-degenerate\ Eruptive\ Variables,Classification/Characterization,4
-Non-degenerate\ Eruptive\ Variables,Magnetically\ Active\ Stars,0
-Non-degenerate\ Eruptive\ Variables,Distance\ Scales,2
-Non-degenerate\ Eruptive\ Variables,Pulsating\ Variables,4
-Non-degenerate\ Eruptive\ Variables,Transiting\ Planets,1
-Non-degenerate\ Eruptive\ Variables,Blazars,0
-Fast\ Transients,Interacting\ Binaries,10
-Fast\ Transients,Galactic,6
-Fast\ Transients,Supernovae,21
-Fast\ Transients,Cosmological,8
-Fast\ Transients,Multiwavelength\ Characterization/Counterparts,15
-Fast\ Transients,Tidal\ Disruption\ Events,6
-Fast\ Transients,Non-degenerate\ Eruptive\ Variables,5
-Fast\ Transients,Fast\ Transients,0
-Fast\ Transients,Microlensing,4
-Fast\ Transients,Gravitational\ Waves,14
-Fast\ Transients,Classification/Characterization,17
-Fast\ Transients,Magnetically\ Active\ Stars,0
-Fast\ Transients,Distance\ Scales,2
-Fast\ Transients,Pulsating\ Variables,2
-Fast\ Transients,Transiting\ Planets,2
-Fast\ Transients,Blazars,1
-Microlensing,Interacting\ Binaries,0
-Microlensing,Galactic,4
-Microlensing,Supernovae,4
-Microlensing,Cosmological,3
-Microlensing,Multiwavelength\ Characterization/Counterparts,2
-Microlensing,Tidal\ Disruption\ Events,0
-Microlensing,Non-degenerate\ Eruptive\ Variables,2
-Microlensing,Fast\ Transients,4
-Microlensing,Microlensing,0
-Microlensing,Gravitational\ Waves,3
-Microlensing,Classification/Characterization,3
-Microlensing,Magnetically\ Active\ Stars,0
-Microlensing,Distance\ Scales,2
-Microlensing,Pulsating\ Variables,1
-Microlensing,Transiting\ Planets,5
-Microlensing,Blazars,0
-Gravitational\ Waves,Interacting\ Binaries,2
-Gravitational\ Waves,Galactic,4
-Gravitational\ Waves,Supernovae,14
-Gravitational\ Waves,Cosmological,7
-Gravitational\ Waves,Multiwavelength\ Characterization/Counterparts,12
-Gravitational\ Waves,Tidal\ Disruption\ Events,4
-Gravitational\ Waves,Non-degenerate\ Eruptive\ Variables,1
-Gravitational\ Waves,Fast\ Transients,14
-Gravitational\ Waves,Microlensing,3
-Gravitational\ Waves,Gravitational\ Waves,0
-Gravitational\ Waves,Classification/Characterization,7
-Gravitational\ Waves,Magnetically\ Active\ Stars,0
-Gravitational\ Waves,Distance\ Scales,2
-Gravitational\ Waves,Pulsating\ Variables,1
-Gravitational\ Waves,Transiting\ Planets,2
-Gravitational\ Waves,Blazars,1
-Classification/Characterization,Interacting\ Binaries,7
-Classification/Characterization,Galactic,11
-Classification/Characterization,Supernovae,16
-Classification/Characterization,Cosmological,7
-Classification/Characterization,Multiwavelength\ Characterization/Counterparts,16
-Classification/Characterization,Tidal\ Disruption\ Events,4
-Classification/Characterization,Non-degenerate\ Eruptive\ Variables,4
-Classification/Characterization,Fast\ Transients,17
-Classification/Characterization,Microlensing,3
-Classification/Characterization,Gravitational\ Waves,7
-Classification/Characterization,Classification/Characterization,0
-Classification/Characterization,Magnetically\ Active\ Stars,2
-Classification/Characterization,Distance\ Scales,8
-Classification/Characterization,Pulsating\ Variables,8
-Classification/Characterization,Transiting\ Planets,9
-Classification/Characterization,Blazars,1
-Magnetically\ Active\ Stars,Interacting\ Binaries,2
-Magnetically\ Active\ Stars,Galactic,3
-Magnetically\ Active\ Stars,Supernovae,0
-Magnetically\ Active\ Stars,Cosmological,0
-Magnetically\ Active\ Stars,Multiwavelength\ Characterization/Counterparts,2
-Magnetically\ Active\ Stars,Tidal\ Disruption\ Events,0
-Magnetically\ Active\ Stars,Non-degenerate\ Eruptive\ Variables,0
-Magnetically\ Active\ Stars,Fast\ Transients,0
-Magnetically\ Active\ Stars,Microlensing,0
-Magnetically\ Active\ Stars,Gravitational\ Waves,0
-Magnetically\ Active\ Stars,Classification/Characterization,2
-Magnetically\ Active\ Stars,Magnetically\ Active\ Stars,0
-Magnetically\ Active\ Stars,Distance\ Scales,0
-Magnetically\ Active\ Stars,Pulsating\ Variables,2
-Magnetically\ Active\ Stars,Transiting\ Planets,2
-Magnetically\ Active\ Stars,Blazars,0
-Distance\ Scales,Interacting\ Binaries,1
-Distance\ Scales,Galactic,3
-Distance\ Scales,Supernovae,3
-Distance\ Scales,Cosmological,4
-Distance\ Scales,Multiwavelength\ Characterization/Counterparts,1
-Distance\ Scales,Tidal\ Disruption\ Events,0
-Distance\ Scales,Non-degenerate\ Eruptive\ Variables,2
-Distance\ Scales,Fast\ Transients,2
-Distance\ Scales,Microlensing,2
-Distance\ Scales,Gravitational\ Waves,2
-Distance\ Scales,Classification/Characterization,8
-Distance\ Scales,Magnetically\ Active\ Stars,0
-Distance\ Scales,Distance\ Scales,0
-Distance\ Scales,Pulsating\ Variables,6
-Distance\ Scales,Transiting\ Planets,2
-Distance\ Scales,Blazars,0
-Pulsating\ Variables,Interacting\ Binaries,8
-Pulsating\ Variables,Galactic,4
-Pulsating\ Variables,Supernovae,3
-Pulsating\ Variables,Cosmological,0
-Pulsating\ Variables,Multiwavelength\ Characterization/Counterparts,1
-Pulsating\ Variables,Tidal\ Disruption\ Events,1
-Pulsating\ Variables,Non-degenerate\ Eruptive\ Variables,4
-Pulsating\ Variables,Fast\ Transients,2
-Pulsating\ Variables,Microlensing,1
-Pulsating\ Variables,Gravitational\ Waves,1
-Pulsating\ Variables,Classification/Characterization,8
-Pulsating\ Variables,Magnetically\ Active\ Stars,2
-Pulsating\ Variables,Distance\ Scales,6
-Pulsating\ Variables,Pulsating\ Variables,0
-Pulsating\ Variables,Transiting\ Planets,3
-Pulsating\ Variables,Blazars,0
-Transiting\ Planets,Interacting\ Binaries,4
-Transiting\ Planets,Galactic,6
-Transiting\ Planets,Supernovae,1
-Transiting\ Planets,Cosmological,0
-Transiting\ Planets,Multiwavelength\ Characterization/Counterparts,5
-Transiting\ Planets,Tidal\ Disruption\ Events,0
-Transiting\ Planets,Non-degenerate\ Eruptive\ Variables,1
-Transiting\ Planets,Fast\ Transients,2
-Transiting\ Planets,Microlensing,5
-Transiting\ Planets,Gravitational\ Waves,2
-Transiting\ Planets,Classification/Characterization,9
-Transiting\ Planets,Magnetically\ Active\ Stars,2
-Transiting\ Planets,Distance\ Scales,2
-Transiting\ Planets,Pulsating\ Variables,3
-Transiting\ Planets,Transiting\ Planets,0
-Transiting\ Planets,Blazars,1
-Blazars,Interacting\ Binaries,3
-Blazars,Galactic,0
-Blazars,Supernovae,0
-Blazars,Cosmological,0
-Blazars,Multiwavelength\ Characterization/Counterparts,5
-Blazars,Tidal\ Disruption\ Events,2
-Blazars,Non-degenerate\ Eruptive\ Variables,0
-Blazars,Fast\ Transients,1
-Blazars,Microlensing,0
-Blazars,Gravitational\ Waves,1
-Blazars,Classification/Characterization,1
-Blazars,Magnetically\ Active\ Stars,0
-Blazars,Distance\ Scales,0
-Blazars,Pulsating\ Variables,0
-Blazars,Transiting\ Planets,1
-Blazars,Blazars,0
+"InteractingBinaries","InteractingBinaries",0
+"InteractingBinaries","Galactic",8
+"InteractingBinaries","Supernovae",6
+"InteractingBinaries","Cosmological",0
+"InteractingBinaries","MultiwavelengthCharacterization/Counterparts",8
+"InteractingBinaries","TidalDisruptionEvents",1
+"InteractingBinaries","Non-degenerateEruptiveVariables",4
+"InteractingBinaries","FastTransients",10
+"InteractingBinaries","Microlensing",0
+"InteractingBinaries","GravitationalWaves",2
+"InteractingBinaries","Classification/Characterization",7
+"InteractingBinaries","MagneticallyActiveStars",2
+"InteractingBinaries","DistanceScales",1
+"InteractingBinaries","PulsatingVariables",8
+"InteractingBinaries","TransitingPlanets",4
+"InteractingBinaries","Blazars",3
+"Galactic","InteractingBinaries",8
+"Galactic","Galactic",0
+"Galactic","Supernovae",1
+"Galactic","Cosmological",0
+"Galactic","MultiwavelengthCharacterization/Counterparts",5
+"Galactic","TidalDisruptionEvents",1
+"Galactic","Non-degenerateEruptiveVariables",4
+"Galactic","FastTransients",6
+"Galactic","Microlensing",4
+"Galactic","GravitationalWaves",4
+"Galactic","Classification/Characterization",11
+"Galactic","MagneticallyActiveStars",3
+"Galactic","DistanceScales",3
+"Galactic","PulsatingVariables",4
+"Galactic","TransitingPlanets",6
+"Galactic","Blazars",0
+"Supernovae","InteractingBinaries",6
+"Supernovae","Galactic",1
+"Supernovae","Supernovae",0
+"Supernovae","Cosmological",12
+"Supernovae","MultiwavelengthCharacterization/Counterparts",12
+"Supernovae","TidalDisruptionEvents",10
+"Supernovae","Non-degenerateEruptiveVariables",4
+"Supernovae","FastTransients",21
+"Supernovae","Microlensing",4
+"Supernovae","GravitationalWaves",14
+"Supernovae","Classification/Characterization",16
+"Supernovae","MagneticallyActiveStars",0
+"Supernovae","DistanceScales",3
+"Supernovae","PulsatingVariables",3
+"Supernovae","TransitingPlanets",1
+"Supernovae","Blazars",0
+"Cosmological","InteractingBinaries",0
+"Cosmological","Galactic",0
+"Cosmological","Supernovae",12
+"Cosmological","Cosmological",0
+"Cosmological","MultiwavelengthCharacterization/Counterparts",8
+"Cosmological","TidalDisruptionEvents",2
+"Cosmological","Non-degenerateEruptiveVariables",0
+"Cosmological","FastTransients",8
+"Cosmological","Microlensing",3
+"Cosmological","GravitationalWaves",7
+"Cosmological","Classification/Characterization",7
+"Cosmological","MagneticallyActiveStars",0
+"Cosmological","DistanceScales",4
+"Cosmological","PulsatingVariables",0
+"Cosmological","TransitingPlanets",0
+"Cosmological","Blazars",0
+"MultiwavelengthCharacterization/Counterparts","InteractingBinaries",8
+"MultiwavelengthCharacterization/Counterparts","Galactic",5
+"MultiwavelengthCharacterization/Counterparts","Supernovae",12
+"MultiwavelengthCharacterization/Counterparts","Cosmological",8
+"MultiwavelengthCharacterization/Counterparts","MultiwavelengthCharacterization/Counterparts",0
+"MultiwavelengthCharacterization/Counterparts","TidalDisruptionEvents",10
+"MultiwavelengthCharacterization/Counterparts","Non-degenerateEruptiveVariables",2
+"MultiwavelengthCharacterization/Counterparts","FastTransients",15
+"MultiwavelengthCharacterization/Counterparts","Microlensing",2
+"MultiwavelengthCharacterization/Counterparts","GravitationalWaves",12
+"MultiwavelengthCharacterization/Counterparts","Classification/Characterization",16
+"MultiwavelengthCharacterization/Counterparts","MagneticallyActiveStars",2
+"MultiwavelengthCharacterization/Counterparts","DistanceScales",1
+"MultiwavelengthCharacterization/Counterparts","PulsatingVariables",1
+"MultiwavelengthCharacterization/Counterparts","TransitingPlanets",5
+"MultiwavelengthCharacterization/Counterparts","Blazars",5
+"TidalDisruptionEvents","InteractingBinaries",1
+"TidalDisruptionEvents","Galactic",1
+"TidalDisruptionEvents","Supernovae",10
+"TidalDisruptionEvents","Cosmological",2
+"TidalDisruptionEvents","MultiwavelengthCharacterization/Counterparts",10
+"TidalDisruptionEvents","TidalDisruptionEvents",0
+"TidalDisruptionEvents","Non-degenerateEruptiveVariables",1
+"TidalDisruptionEvents","FastTransients",6
+"TidalDisruptionEvents","Microlensing",0
+"TidalDisruptionEvents","GravitationalWaves",4
+"TidalDisruptionEvents","Classification/Characterization",4
+"TidalDisruptionEvents","MagneticallyActiveStars",0
+"TidalDisruptionEvents","DistanceScales",0
+"TidalDisruptionEvents","PulsatingVariables",1
+"TidalDisruptionEvents","TransitingPlanets",0
+"TidalDisruptionEvents","Blazars",2
+"Non-degenerateEruptiveVariables","InteractingBinaries",4
+"Non-degenerateEruptiveVariables","Galactic",4
+"Non-degenerateEruptiveVariables","Supernovae",4
+"Non-degenerateEruptiveVariables","Cosmological",0
+"Non-degenerateEruptiveVariables","MultiwavelengthCharacterization/Counterparts",2
+"Non-degenerateEruptiveVariables","TidalDisruptionEvents",1
+"Non-degenerateEruptiveVariables","Non-degenerateEruptiveVariables",0
+"Non-degenerateEruptiveVariables","FastTransients",5
+"Non-degenerateEruptiveVariables","Microlensing",2
+"Non-degenerateEruptiveVariables","GravitationalWaves",1
+"Non-degenerateEruptiveVariables","Classification/Characterization",4
+"Non-degenerateEruptiveVariables","MagneticallyActiveStars",0
+"Non-degenerateEruptiveVariables","DistanceScales",2
+"Non-degenerateEruptiveVariables","PulsatingVariables",4
+"Non-degenerateEruptiveVariables","TransitingPlanets",1
+"Non-degenerateEruptiveVariables","Blazars",0
+"FastTransients","InteractingBinaries",10
+"FastTransients","Galactic",6
+"FastTransients","Supernovae",21
+"FastTransients","Cosmological",8
+"FastTransients","MultiwavelengthCharacterization/Counterparts",15
+"FastTransients","TidalDisruptionEvents",6
+"FastTransients","Non-degenerateEruptiveVariables",5
+"FastTransients","FastTransients",0
+"FastTransients","Microlensing",4
+"FastTransients","GravitationalWaves",14
+"FastTransients","Classification/Characterization",17
+"FastTransients","MagneticallyActiveStars",0
+"FastTransients","DistanceScales",2
+"FastTransients","PulsatingVariables",2
+"FastTransients","TransitingPlanets",2
+"FastTransients","Blazars",1
+"Microlensing","InteractingBinaries",0
+"Microlensing","Galactic",4
+"Microlensing","Supernovae",4
+"Microlensing","Cosmological",3
+"Microlensing","MultiwavelengthCharacterization/Counterparts",2
+"Microlensing","TidalDisruptionEvents",0
+"Microlensing","Non-degenerateEruptiveVariables",2
+"Microlensing","FastTransients",4
+"Microlensing","Microlensing",0
+"Microlensing","GravitationalWaves",3
+"Microlensing","Classification/Characterization",3
+"Microlensing","MagneticallyActiveStars",0
+"Microlensing","DistanceScales",2
+"Microlensing","PulsatingVariables",1
+"Microlensing","TransitingPlanets",5
+"Microlensing","Blazars",0
+"GravitationalWaves","InteractingBinaries",2
+"GravitationalWaves","Galactic",4
+"GravitationalWaves","Supernovae",14
+"GravitationalWaves","Cosmological",7
+"GravitationalWaves","MultiwavelengthCharacterization/Counterparts",12
+"GravitationalWaves","TidalDisruptionEvents",4
+"GravitationalWaves","Non-degenerateEruptiveVariables",1
+"GravitationalWaves","FastTransients",14
+"GravitationalWaves","Microlensing",3
+"GravitationalWaves","GravitationalWaves",0
+"GravitationalWaves","Classification/Characterization",7
+"GravitationalWaves","MagneticallyActiveStars",0
+"GravitationalWaves","DistanceScales",2
+"GravitationalWaves","PulsatingVariables",1
+"GravitationalWaves","TransitingPlanets",2
+"GravitationalWaves","Blazars",1
+"Classification/Characterization","InteractingBinaries",7
+"Classification/Characterization","Galactic",11
+"Classification/Characterization","Supernovae",16
+"Classification/Characterization","Cosmological",7
+"Classification/Characterization","MultiwavelengthCharacterization/Counterparts",16
+"Classification/Characterization","TidalDisruptionEvents",4
+"Classification/Characterization","Non-degenerateEruptiveVariables",4
+"Classification/Characterization","FastTransients",17
+"Classification/Characterization","Microlensing",3
+"Classification/Characterization","GravitationalWaves",7
+"Classification/Characterization","Classification/Characterization",0
+"Classification/Characterization","MagneticallyActiveStars",2
+"Classification/Characterization","DistanceScales",8
+"Classification/Characterization","PulsatingVariables",8
+"Classification/Characterization","TransitingPlanets",9
+"Classification/Characterization","Blazars",1
+"MagneticallyActiveStars","InteractingBinaries",2
+"MagneticallyActiveStars","Galactic",3
+"MagneticallyActiveStars","Supernovae",0
+"MagneticallyActiveStars","Cosmological",0
+"MagneticallyActiveStars","MultiwavelengthCharacterization/Counterparts",2
+"MagneticallyActiveStars","TidalDisruptionEvents",0
+"MagneticallyActiveStars","Non-degenerateEruptiveVariables",0
+"MagneticallyActiveStars","FastTransients",0
+"MagneticallyActiveStars","Microlensing",0
+"MagneticallyActiveStars","GravitationalWaves",0
+"MagneticallyActiveStars","Classification/Characterization",2
+"MagneticallyActiveStars","MagneticallyActiveStars",0
+"MagneticallyActiveStars","DistanceScales",0
+"MagneticallyActiveStars","PulsatingVariables",2
+"MagneticallyActiveStars","TransitingPlanets",2
+"MagneticallyActiveStars","Blazars",0
+"DistanceScales","InteractingBinaries",1
+"DistanceScales","Galactic",3
+"DistanceScales","Supernovae",3
+"DistanceScales","Cosmological",4
+"DistanceScales","MultiwavelengthCharacterization/Counterparts",1
+"DistanceScales","TidalDisruptionEvents",0
+"DistanceScales","Non-degenerateEruptiveVariables",2
+"DistanceScales","FastTransients",2
+"DistanceScales","Microlensing",2
+"DistanceScales","GravitationalWaves",2
+"DistanceScales","Classification/Characterization",8
+"DistanceScales","MagneticallyActiveStars",0
+"DistanceScales","DistanceScales",0
+"DistanceScales","PulsatingVariables",6
+"DistanceScales","TransitingPlanets",2
+"DistanceScales","Blazars",0
+"PulsatingVariables","InteractingBinaries",8
+"PulsatingVariables","Galactic",4
+"PulsatingVariables","Supernovae",3
+"PulsatingVariables","Cosmological",0
+"PulsatingVariables","MultiwavelengthCharacterization/Counterparts",1
+"PulsatingVariables","TidalDisruptionEvents",1
+"PulsatingVariables","Non-degenerateEruptiveVariables",4
+"PulsatingVariables","FastTransients",2
+"PulsatingVariables","Microlensing",1
+"PulsatingVariables","GravitationalWaves",1
+"PulsatingVariables","Classification/Characterization",8
+"PulsatingVariables","MagneticallyActiveStars",2
+"PulsatingVariables","DistanceScales",6
+"PulsatingVariables","PulsatingVariables",0
+"PulsatingVariables","TransitingPlanets",3
+"PulsatingVariables","Blazars",0
+"TransitingPlanets","InteractingBinaries",4
+"TransitingPlanets","Galactic",6
+"TransitingPlanets","Supernovae",1
+"TransitingPlanets","Cosmological",0
+"TransitingPlanets","MultiwavelengthCharacterization/Counterparts",5
+"TransitingPlanets","TidalDisruptionEvents",0
+"TransitingPlanets","Non-degenerateEruptiveVariables",1
+"TransitingPlanets","FastTransients",2
+"TransitingPlanets","Microlensing",5
+"TransitingPlanets","GravitationalWaves",2
+"TransitingPlanets","Classification/Characterization",9
+"TransitingPlanets","MagneticallyActiveStars",2
+"TransitingPlanets","DistanceScales",2
+"TransitingPlanets","PulsatingVariables",3
+"TransitingPlanets","TransitingPlanets",0
+"TransitingPlanets","Blazars",1
+"Blazars","InteractingBinaries",3
+"Blazars","Galactic",0
+"Blazars","Supernovae",0
+"Blazars","Cosmological",0
+"Blazars","MultiwavelengthCharacterization/Counterparts",5
+"Blazars","TidalDisruptionEvents",2
+"Blazars","Non-degenerateEruptiveVariables",0
+"Blazars","FastTransients",1
+"Blazars","Microlensing",0
+"Blazars","GravitationalWaves",1
+"Blazars","Classification/Characterization",1
+"Blazars","MagneticallyActiveStars",0
+"Blazars","DistanceScales",0
+"Blazars","PulsatingVariables",0
+"Blazars","TransitingPlanets",1
+"Blazars","Blazars",0

@@ -1,3 +1,4 @@
+
 //*******************************************************************
 //  CHORD MAPPER 
 //*******************************************************************
@@ -57,7 +58,7 @@ function chordRdr (matrix, mmap) {
   return function (d) {
     var i,j,s,t,g,m = {};
     if (d.source) {
-	console.log("source",d.source)
+      //console.log("source",d.source)
       i = d.source.index; j = d.target.index;
       s = _.where(mmap, {id: i });
       t = _.where(mmap, {id: j });
