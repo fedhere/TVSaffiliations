@@ -6,25 +6,38 @@ import json
 import sys
 import gspread
 import datetime
-
+import os
 
 def putInSheet(sheet, values, i=1,  nmax=20) :
-    allcells = ['A','B','C','D','E','F','G','H','I','J','K']
+    allcells = ['A','B','C','D','E','F','G','H','I','J','K','L','M']
     
+    print ("This may take a few minutes while I look for the last non-empty row on the spreadsheet")
+    headers = [(c,sheet.acell('%s1'%(c)).value) for c in allcells]
+
+    cellnames = {}
+    for c in headers:
+        cellnames[c[0]] = c[1]
+
     while i<1000:
         cells = np.array([ sheet.acell('%s%d'%(c, i)).value for c in allcells])
-        print (cells[0])
+        print ('.')
         if (cells == '').all():
             break
         i += 1 
     
     for v,k in values.iteritems():
-            print (v,k)
+            print (cellnames[v],":\t", k)
             sheet.update_acell('%s%d'%(v,i), k)
         
     
 if __name__ == '__main__':
-
+    if len(sys.argv)<2 or not os.path.isfile("tvscredentials.json") or not \
+       os.path.isfile("application.txt"):
+        
+        print ("use as newContact.txt 'my name in quotes'")
+        print ("and make sure you have a tvscredentials.json file and application.txt file in the working dir")
+        sys.exit()
+        
     myname = sys.argv[1]
     json_key = json.load(open('tvscredentials.json')) # json credentials you downloaded earlier
     scope = ['https://spreadsheets.google.com/feeds']
@@ -35,7 +48,7 @@ if __name__ == '__main__':
     sheet = file.open("LSST_TVS_subgroups").sheet1 # open sheet
 
     newmembers = {}
-    
+
     vals = {'A': 'last name',
             'B': 'first name',
             'C': 'affiliation',
@@ -44,7 +57,9 @@ if __name__ == '__main__':
             'F': 'primary',
             'G': '',
             'H': '',
-	    'I': ''}
+	    'I': '',
+            'L': datetime.date.today().strftime("%d %B %Y"),
+            'M': myname}
 
     app = open("application.txt", "r").readlines()
     for i,l in enumerate(app):
@@ -101,7 +116,7 @@ if __name__ == '__main__':
                 vals['I'] = app[i+3].replace("  - ", "").strip()     
             except:
                 break
-    vals['L'] = datetime.date.today().strftime("%d %B %Y")
+
     #print (vals)
     #submitMember(newmembers, myname)
     
