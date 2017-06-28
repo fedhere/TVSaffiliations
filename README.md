@@ -4,7 +4,7 @@ These chunks of python code allow the user to collect emails of LSST TVS members
 
 Change the value of tvsfile in conf.py to the correct GoogleDoc file link, which the TVS co-chairs Ashish and Federica can provide.
 
-## Withot the GUI: 
+## Without the GUI: 
 
 ### to obtain all contact info:
 run as
@@ -60,5 +60,9 @@ for gui version
 
 ## Visualizations
 
-mapTVS.ipny maps the TVS members. Download the LSST google doc to use as unput
+submitNewMember.py reads in the headerofa TVS applicationto submit the google form. OBSOLETE since now theform has a reCaptha anddoesnot allow robots anymore
+
+mapTVS.ipny maps the TVS members. Download the LSST google doc to use as input
+
+affiliations.html visualizes the connection between member subgroup applications
 
