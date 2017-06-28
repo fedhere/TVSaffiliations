@@ -33,6 +33,7 @@
         display: none;
       }
     </style>
+  
   </head>
   <body  link="SteelBlue" vlink="SteelBlue" alink="SteelBlue">
     <table border="0" style="width:60%">
@@ -56,6 +57,9 @@ Roll over each wedge to see more information about each subgroup pair, and on th
     <script>
 var matrixOut = 'data/affiliations-matrix.json';
 var mapOut = 'data/affiliations-map.json';
+        // Load the full build.
+var _ = require('lodash');
+
 
       //*******************************************************************
       //  CREATE MATRIX AND MAP
@@ -118,7 +122,6 @@ subgroups['Classification/Characterization']="https://tvs.science.lsst.org/node/
 subgroups['DistanceScale']="https://www.lsstcorp.org/sciencewiki/index.php?title=Distance_Scale"
 subgroups['FastTransients']="https://tvs.science.lsst.org/node/14"
 subgroups['Galactic'] = "https://tvs.science.lsst.org/node/19"
-subgroups['GravitationalWaves']="https://www.lsstcorp.org/sciencewiki/index.php?title=Gravitational_Waves"
 subgroups['InteractingBinaries']="https://tvs.science.lsst.org/node/20"
 subgroups['MagneticallyActiveStars']="https://www.lsstcorp.org/sciencewiki/index.php?title=Magnetically_Active_Stars"
 subgroups['MicrolensingSubgroup']="https://www.lsstcorp.org/sciencewiki/index.php?title=Microlensing_Subgroup"
@@ -167,6 +170,7 @@ twentycols = ['#9C6744','#C9BEB9', "#C8DAE8",'#CFA07E','#C4BAA1','#C2B6BF','#858
         console.log("chord",chord.chords());
 
         function mouseovergroup(d, i) {
+            console.log("object", groupTip(rdr(d)));
           d3.select("#tooltip")
 .style("visibility", "visible")
 .html("<a href='"+groupTip(rdr(d))+"' style='color: #ffffff'>link to subgroup page</a><br/>")
