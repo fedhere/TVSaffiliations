@@ -54,3 +54,11 @@ for nogui version
         Pandas
 for gui version 
         pandas, Gooey, wx
+
+
+# Additional code:
+
+## Visualizations
+
+mapTVS.ipny maps the TVS members. Download the LSST google doc to use as unput
+
