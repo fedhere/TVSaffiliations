@@ -52,9 +52,11 @@ if __name__ == '__main__':
     tmp = TVSMembers[TVSMembers.primary == primary]
 
     sgemails = tmp['email'].values
-    femailName = 'SubgroupEmails_'+''.join(primary.split())+'.dat'
+    femailName = 'SubgroupEmails_' + ''.join(primary.split()).\
+                 replace('/', '')+'.dat'
     femail = open(femailName, 'w')
-    femail.write("These are the members with primary affiliation with " + primary + "\n")
+    femail.write("These are the members with primary affiliation with " + 
+                 primary + "\n")
     femail.write("\n")
     femail.write('\n'.join([em + ','for em in sgemails]))
     femail.write("\n")
@@ -62,9 +64,11 @@ if __name__ == '__main__':
     sgLnames = tmp['last name'].values
     sgFnames = tmp['first name'].values
 
-    fnamesName = 'SubgroupNames_'+''.join(primary.split())+'.dat'
+    fnamesName = 'SubgroupNames_' + ''.join(primary.split()).\
+                 replace('/', '') + '.dat'
     fnames = open(fnamesName, 'w')
-    fnames.write("These are the members with primary affiliation with " + primary + "\n")
+    fnames.write("These are the members with primary affiliation with " +
+                 primary + "\n")
     fnames.write("\n")
     for em in zip(sgLnames, sgFnames, sgemails):
         fnames.write('{0:15} {1:15} {2}\n'.format(em[0], em[1], em[2]))
